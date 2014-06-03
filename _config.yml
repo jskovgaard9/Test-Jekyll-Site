@@ -2,6 +2,7 @@ name: "Test Jekyll Site"
 description: "my description of the site"
 
 url: "http://jskovgaard9.github.io/Test-Jekyll-Site/"
+baseurl: "/Test-Jekyll-Site"
 #top 3 always use quotes for best practice
 paginate: 10
 
